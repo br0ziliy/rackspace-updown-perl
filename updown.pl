@@ -1,4 +1,9 @@
 ﻿#!/usr/bin/perl
+
+# Rackspace MyCloud server management script
+# Vasyl Kaigorodov <vkaygorodov@gmail.com>
+# (cc) 2012
+
 use strict;
 use warnings;
 use LWP;
